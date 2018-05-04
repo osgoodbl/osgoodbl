@@ -11,8 +11,7 @@ blog_theme: dark # Or use dark
 # Profile information
 name: Brian Osgood
 tagline: Budding Data Scientist
-about-description: A student at General Assembly Seattle.
-I am taking their Data Science Immersive Course# Add Discription
+about-description: A student at General Assembly Seattle. I am taking their Data Science Immersive Course# Add Discription
 pic: 79.jpg  # Place a 200x200 picture inside /assets/img/ folder and provide the name of the file below
 
 # Contact links
